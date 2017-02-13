@@ -46,9 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Scripts\EditMass.cs" />
-     <Compile Include="Assets\_Scripts\EditSpringConstant.cs" />
+     <Compile Include="Assets\_Scripts\EditingValues.cs" />
      <Compile Include="Assets\_Scripts\MouseDrag.cs" />
+     <Compile Include="Assets\_Scripts\OutputProperties.cs" />
      <None Include="Assets\Assets (Unity Store)\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Assets (Unity Store)\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
  <Reference Include="UnityEngine.UI">
